@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: var(--cor-botao);
+    background-color: var(--cor-do-fundo);
 }
 
 .titulo__cabecalho {
