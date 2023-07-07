@@ -8,3 +8,7 @@
 body {
     background-color: var(--cor-do-fundo);
 }
+
+.titulo__cabecalho {
+    text-align: center;
+}
