@@ -18,7 +18,7 @@
     background-position: center;
     background-repeat: no-repeat;
     display: inline-block;
-   
+
 }
 
 .container__imagem {
@@ -115,7 +115,7 @@ span.cabecalho__menu__hamburguer.container__imagem {
         font-size: 16px;
         font-weight:400 ;
         text-transform: uppercase;
-       
+
     }
 
     .container__imagem-transparente{
@@ -125,7 +125,7 @@ span.cabecalho__menu__hamburguer.container__imagem {
     .cabecalho__menu__hamburguer{
         display:none;
     }
-        
+
     .opções__botao:checked ~ .lista__menu{
         display: block;
         width: auto;
@@ -143,19 +143,19 @@ span.cabecalho__menu__hamburguer.container__imagem {
     .container {
         display: flex;
         align-items: center;
-        
+
     }
-    
+
 }
 
 @media screen and (min-width: 1200px) {
-    
+
     .container__link {
         display: flex;
         text-decoration: none;
         align-items: center;
         margin-right: 2em;
-        
+
     }
 
     .container__imagem__texto {
@@ -165,13 +165,13 @@ span.cabecalho__menu__hamburguer.container__imagem {
         font-size: 20px ;
         font-weight:400 ;
         font-family:var(--fonte-principal) ;
-        
+
     }
 
     .container__imagem {
         margin-left: 1em;
     }
-   
+
 
     .opções {
         margin-right: auto;
